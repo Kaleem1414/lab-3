@@ -6,6 +6,7 @@ int main()
       cout<<23-st-033<<endl;
       cout<<"adding a two number"<<a+b;<<endl;
       cout<<"subtraction a two number"<<a-b;<<endl;
-
+      cout<<"multiplication a two number"<<a*b;<<endl;
+      cout<<"division a two number"<<a/b;<<endl;
 return 0;
 }
