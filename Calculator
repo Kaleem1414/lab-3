@@ -10,3 +10,5 @@ int main()
       cout<<"division a two number"<<a/b;<<endl;
 return 0;
 }
+cout << "Ibara";
+cout << "23-set-047";
